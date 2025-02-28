@@ -71,7 +71,7 @@ function ScoreBoard({
               onMouseOver={Hover}
               onMouseOut={Hover2}
             >
-              Submit
+              Submitt
             </button>
           </form>
         </div>
